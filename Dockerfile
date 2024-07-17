@@ -1,0 +1,8 @@
+FROM nginx:latest 
+
+ENV TESTONE=
+ENV TESTTWO=
+ENV TESTTHREE=
+
+
+
